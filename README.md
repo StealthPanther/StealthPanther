@@ -450,37 +450,6 @@ These projects reflect my ability to design scalable systems, build REST APIs, i
 | Cloud Deployment | Resume Analysis | Continuous Learning |
 | Clean Architecture | API Integrations | Adaptability |
 
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="[https://github-readme-stats.vercel.app/api?username=StealthPanther&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StealthPanther&layout=compact&theme=tokyonight&hide_border=true)"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=StealthPanther&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=StealthPanther&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=StealthPanther&show_icons=true&theme=tokyonight&hide_border=true)"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=StealthPanther&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # Development Workflow
 
