@@ -431,9 +431,6 @@ These projects reflect my ability to design scalable systems, build REST APIs, i
 <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/Coursera-Professional%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Udemy-Web%20Developer%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
